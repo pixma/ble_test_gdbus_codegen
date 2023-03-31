@@ -4,7 +4,7 @@
 
 This reopistory contains the source code of application written in C programming language to create a console based BLE Client using BlueZ library via gdbus API calls. This repository is also a sort of playground where I may push updates as I find some new things to test with BLE and Linux Platform for various circumstances.
 
-This application sets the BLE Discovery filter to ESP32 SSP Server Profile and the project template code can be found here - [Repository: esp32_wifi_ble_coexist_template]([https://](https://github.com/pixma/esp32_wifi_ble_coexist_template)).
+This application sets the BLE Discovery filter to ESP32 SSP Server Profile and the project template code can be found here - [Repository: esp32_wifi_ble_coexist_template](https://github.com/pixma/esp32_wifi_ble_coexist_template).
 
 #### Folder Structure
 ```
