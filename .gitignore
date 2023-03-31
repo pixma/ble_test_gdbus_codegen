@@ -1,0 +1,24 @@
+# CMake build directory
+build/
+
+# VSCode workspace settings
+.vscode/
+
+# C++ compiled object files
+*.o
+
+# Compiled executables
+*.exe
+*.out
+
+# Libraries
+*.a
+*.lib
+
+# Generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+output/
